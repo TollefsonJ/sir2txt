@@ -1,0 +1,102 @@
+Site Investigation Report (EXPRESS) June 2013
+153 Hamlet Avenue, Woonsocket, RI TFL&A, inc
+
+ 
+
+1 EXECcuTIvVE SUMMARY
+
+One Fifty Three Hamlet Avenue Realty Trust, LLC retained Theodore F Low & Associates, inc
+(TFL&A) to conduct a Site Investigation Report (SIR) at 153 Hamlet Avenue in the City of
+Woonsocket, Rhode Island (the subject site). The objective of the site investigation documented
+herein was to assess the presence, concentration and distribution of contaminants in
+environmental media at the subject site, and to prepare a SIR to fulfill requirements set forth in
+Section 7.0 of the Remediation Regulations. TFL&A’s Limitations of Work Product are
+included as Appendix A.
+
+TFL&A conducted a soil sampling program at the subject site on March 29, 2013. Fourteen (14)
+soil borings were advanced at select pre-approved locations utilizing direct push drilling
+methods. The soil borings were advanced around the perimeter of the entire site. Refer to
+Figure 3 for a site plan of the soil boring locations. Soil borings were generally advanced
+approximately twenty (20) to twenty-five (25) feet below grade, the water table was encountered
+at approximately fifteen (15) to twenty (20) feet below grade. During soil boring operations, soil
+samples collected throughout the soil column at each boring location were field screened for total
+volatile organic compounds with a photoionization detector (PID). Results of those PID readings
+can be viewed in the Soil Boring Logs in Appendix B.
+
+Soil samples were collected from each boring and selected samples were submitted for
+laboratory analysis. Soil samples were generally collected from surficial soil, from vadose zone
+soil directly above the water table and/or from soil exhibiting elevated PID readings. Thirteen
+(13) soil samples were submitted to ESS Laboratory (ESS) of Cranston, Rhode Island for
+analysis of VOCs by USEPA Method 8260B, TPH by USEPA Method 8100M, PP13 Metals by
+USEPA Method 6010B and/or polynuclear aromatic hydrocarbons (PAHs) by USEPA Method
+8270C.
+
+On April 16, 2013, TFL&A collected one groundwater sample from each of the eight (8) newly
+installed monitoring wells. Field parameters, including pH, temperature, specific conductance,
+dissolved oxygen and oxidation reduction potential (ORP) were recorded at each sampling
+location. The groundwater quality measurements forms that were utilized to record the above
+data are attached in Appendix D. Groundwater samples were collected utilizing low flow
+sampling techniques.
+
+Prior to the collection of the groundwater samples, each well was bailed once for all on site
+groundwater monitoring wells in an attempt to detect a floating sheen on groundwater. None of
+the groundwater bailed at each well identified a sheen or floater contamination present on the
+groundwater table. Groundwater samples were submitted to ESS for analysis for VOCs by
+USEPA Method 8260B. Dedicated sampling equipment was utilized, therefore equipment blanks
+were not collected.
+
+The objective of the site investigation activities described herein was to complete the SIR in
+accordance with the RIDEM regulations and to determine if the recognized environmental
+conditions identified in the December 1012 Phase I ESA had impacted the subject site.
+Site Investigation Report (EXPRESS) June 2013
+153 Hamlet Avenue, Woonsocket, RI ‘TFL&A, ine
+
+ 
+
+These investigations consisted of the collection and laboratory analysis of soil and groundwater
+samples to address the potential impact of a release on environmental media at the subject site.
+Results of the site investigation activities indicated that soil and groundwater quality at the
+subject site was sufficiently characterized in accordance with the RIDEM Regulations.
+
+Analytical results of soil samples collected from soil borings advanced across the subject site
+identified PAHs above the applicable regulatory criteria.
+
+Analytical results of groundwater samples collected from the installed monitoring wells across
+the subject site did not exceed the applicable regulatory criteria. It does not appear the soil
+release has the potential to become in contact with the groundwater table for the following
+reason:
+* Depth of groundwater (soil contaminants would have to migrate approximately ten (10)
+to fifteen (15) further below grade).
+* The slight soil exceedance and it limited locations (the impacted soils do not appear to be
+widespread, only locally).
+¢ The placement of an Environmental Land Use Restriction (ELUR) with an associated
+Soil Management Plan (SMP), this will help restrict the stormwater runoff to infiltrate
+into the subsurface and potentially migrate the contaminants into groundwater.
+
+Based on the conclusions of this Site Investigation, it appears the preferred remedial alternative
+is an engineered control. Based on the impacted direct exposure soils, it appears this is the most
+efficient and cost effective approach. These direct exposure soils will be addressed by
+engineered controls through the recording of an institutional control in the form of a Department
+approved ELUR and SMP, followed by an annual compliance certification of the ELUR. The
+details of the engineered control are below:
+
+¢  Inarea that are to have asphalt:
+© Six (6) inches of clean soil cap with a minimum four (4) inch layer of asphalt with
+an ELUR
+¢ In green space areas:
+o Two (2) feet of a clean soil cap with an ELUR, or
+o One (1) foot of clean soil over Geofabric material with a minimum puncture
+strength of 120 pounds, and burst strength of 400 psi with an ELUR
+
+2 NOTIFICATION OF RELEASE
+
+Section 2 of the EXPRESS Policy is not applicable to the subject site. The notification of release
+will be reported along with all of the required documents associated with the EXPRESS Policy.
+The subject site is within an Environmental Justice Area (EJ) and attached in Appendix B are the
+associated EJ documents and a list of the recipients.
+
+3 PAST INCIDENTS OR RELEASES
+
+3.10 STATE HAZARDOUS WASTE MANAGEMENT FILE — HAMLET
+AVENUE REALTY TRUST (HAML-HWM/I)
+
