@@ -37,11 +37,23 @@ for doc in nlp.pipe(textlist):
 # save NER results as spacy object
 outfile = directory + "/data/analysis_output/nlp_output.spacy"
 doc_bin.to_disk(outfile)
+#doc_bin = DocBin().from_disk(path=outfile)
 
-# send to list and view some results
+# send to list
 doclist = list(doc_bin.get_docs(nlp.vocab)) # docbin to doclist
 
-spacy.displacy.serve(doclist[0], style='ent') # view first result
+################################################
+################################################
+# save outputs at html
+################################################
+for i, doc in enumerate(doclist):
+    outpath = files[i].replace('_CLEAN.txt','_DISPLACY.html').replace('txt_clean','analysis_output/displacy_html')
+    os.makedirs(os.path.dirname(outpath), exist_ok=True)
+
+    html = spacy.displacy.render(doc, style='ent', jupyter=False)
+    with open(outpath, 'w+', encoding="utf-8") as fp:
+        fp.write(html)
+        fp.close()
 
 ################################################
 ################################################
