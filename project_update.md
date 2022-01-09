@@ -38,7 +38,17 @@ This step uses "3-entity_recognition.py" to grab the texts from "txt_clean". It 
 
 Previous attempts fed the data through Spacy's "en_core_web_lg" model. For this attempt, I switched over to the "en_core_web_trf" model (a transformer pipeline), as it's supposed to produce more accurate NER results. Transformers, as far as I understand, want GPU hardware - so even the short documents tested here taxed my GPU-less laptop pretty heavily. But the results are markedly better, I think.
 
+Results are best viewed using the HTML outputs. Github doesn't make it easy to view rendered HTML files, so I'm pasting links to the executive summary outputs here:
+
+[Output 1](https://htmlpreview.github.io/?https://github.com/TollefsonJ/sir2txt/blob/main/data/analysis_output/displacy_html/summary_reports_exec_summaries/SR-28-0006%20-%202011.05.23%20-%20Phase%20I%20Enviro%20Site%20Assess.%20%26%20Phase%20II%20Limited%20Subsurface%20Invest._DISPLACY.html)
+
+[Output 2](https://htmlpreview.github.io/?https://github.com/TollefsonJ/sir2txt/blob/main/data/analysis_output/displacy_html/summary_reports_exec_summaries/SR-35-0065%20-%202007.07.06%20-%20Phase%20I%20Environmental%20Site%20Assessment_DISPLACY.html)
+
+[Output 3](https://htmlpreview.github.io/?https://github.com/TollefsonJ/sir2txt/blob/main/data/analysis_output/displacy_html/summary_reports_exec_summaries/SR-39-0002%20-%202013.06%20-%20Site%20Investigation%20Report%20(SIR)%20-%20Final_DISPLACY.html)
+
+
 ### Reflection on second attempt
+
 The executive summary sections of the SIR summary reports provide a lot of data. Classification results using TRF model seem, to me, pretty good. At this stage, here's what I see as the main challenges:
 
 **Analyzing full summary reports, or focusing on the "executive summary" or introductory sections?** My guess is that the introductory sections of the SIR summary reports will contain all the major entities involved in the SIR process, meaning that it might work well for us to focus our attention on these sections. This is also a good idea because analyzing the full summary reports introduces two problems: reports include tables, maps, and other sections that don't easily translate to clean text; and the extremely long reports would require much more computing time than the 2-5 page introductions / exec summaries.
