@@ -38,7 +38,7 @@ This step uses "3-entity_recognition.py" to grab the texts from "txt_clean". It 
 
 Previous attempts fed the data through Spacy's "en_core_web_lg" model. For this attempt, I switched over to the "en_core_web_trf" model (a transformer pipeline), as it's supposed to produce more accurate NER results. Transformers, as far as I understand, want GPU hardware - so even the short documents tested here taxed my GPU-less laptop pretty heavily. But the results are markedly better, I think.
 
-Results are best viewed using the HTML outputs. Github doesn't make it easy to view rendered HTML files, so I'm pasting links to the executive summary outputs here:
+Results are best viewed using the HTML outputs. Github doesn't make it easy to view rendered HTML files, so I'm pasting links to the executive summary outputs here. To view other outputs, navigate to the "dispacy_html" folder, click on an HTML file, and paste "https://htmlpreview.github.io/?" in front of the URL.
 
 [Output 1](https://htmlpreview.github.io/?https://github.com/TollefsonJ/sir2txt/blob/main/data/analysis_output/displacy_html/summary_reports_exec_summaries/SR-28-0006%20-%202011.05.23%20-%20Phase%20I%20Enviro%20Site%20Assess.%20%26%20Phase%20II%20Limited%20Subsurface%20Invest._DISPLACY.html)
 
